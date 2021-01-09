@@ -6,7 +6,7 @@
 
 Learning concepts and techniques about Machine Learning with practical exercises and projects
 
-<h2 align="center"> Goals </h2>
+## Goals
 
 * Learn the concepts, the intuitions, and the tools to actually implement
 programs capable of learning from data.
